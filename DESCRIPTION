@@ -1,0 +1,12 @@
+Package: mser4r
+Type: Package
+Title: Maximally Stable Extremal Regions
+Version: 0.0.9
+Author: Jesus Martin de la Sierra
+Maintainer: Jesus Martin de la Sierra <jesus.martinsierra@gmail.com>
+Description: Extracts regions that remain stable over a certain number of thresholds.
+License: MIT + file LICENSE
+Imports: igraph, imager, magrittr, purrr, stringr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
